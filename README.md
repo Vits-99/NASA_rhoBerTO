@@ -1,5 +1,5 @@
 # **ρBerTO** -- A _RoboTO_ solution to the NASA Space Apps Challenge
-Proposed solution for the "Save the Earth from another Carrington Event"
+Proposed solution for the "Save the Earth from another Carrington Event"\
 The Carrington Event was the most intense geomagnetic storm in recorded history, peaking from 1–2 September 1859 during solar cycle 10. It created strong auroral displays that were reported globally and caused sparking and even fires in multiple telegraph stations.
 
 ![ρBerTO](team_cover.png)
